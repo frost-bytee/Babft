@@ -44,7 +44,7 @@ end)
 
 local BlockId = loadstring(game:HttpGet('https://raw.githubusercontent.com/frost-bytee/Babft/refs/heads/main/BlockId.lua'))()
 local classes = loadstring(game:HttpGet('https://raw.githubusercontent.com/frost-bytee/Babft/refs/heads/main/AutoBuild.lua'))()
-local NormalColorBlock = loadstring(game:HttpGet('https://raw.githubusercontent.com/TheRealAsu/BABFT/refs/heads/main/AutoBuild/NormalColorBlock.lua'))()
+local NormalColorBlock = loadstring(game:HttpGet('https://raw.githubusercontent.com/frost-bytee/Babft/refs/heads/main/Colours.lua'))()
 
 -- ReGui library
 local ImGui = loadstring(game:HttpGet('https://raw.githubusercontent.com/frost-bytee/Babft/refs/heads/main/ReGUI.lua'))()
